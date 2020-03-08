@@ -19,7 +19,7 @@ git config --global user.name "git 이메일주소"
 
 git clone 깃주소
 
-git checkout 브런치명 
+git checkout 브랜치명 
 
 
 [branch업로드] 
