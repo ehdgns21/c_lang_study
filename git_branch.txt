@@ -18,7 +18,7 @@ git add .(점)
 
 git commit -m "업데이트메세지"
 
-git push origin 브런치명
+git push origin 브랜치명
 
 
 
